@@ -2,7 +2,7 @@
 
 # Insilico Tecnologia 🚀
 
-![GitHub](https://img.shields.io/badge/GitHub-%40r0bertgabriel-black?style=flat\&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-%40insilicotec-black?style=flat\&logo=github)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/Licença-Proprietária-blue)
 ![B2B](https://img.shields.io/badge/Modelo-B2B%20%7C%20SaaS%20%7C%20E2E-blueviolet)

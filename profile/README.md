@@ -59,9 +59,3 @@ Se você busca transformar processos, potencializar resultados e criar soluçõe
 Aqui, tecnologia é feita para ser **parceira do seu crescimento**.
 
 ---
-
-💡 *"Automatizar não é substituir pessoas, é libertar pessoas para fazerem o que importa."*
-
----
-
-Se quiser, posso te gerar um banner gráfico bonito para colocar no topo do README. Quer? 😎

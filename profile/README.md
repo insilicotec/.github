@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5c0fb76a-c82f-46ff-9621-afa89d6d2c78)
+![image](https://github.com/user-attachments/assets/0d452835-841e-401e-93c3-9b53ec0a98a4)
+
 
 # Insilico Tecnologia 🚀
 

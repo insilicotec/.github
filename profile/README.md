@@ -1,7 +1,3 @@
-Perfeito! Aqui está uma versão turbinada, com badges e bem estilizada para dar aquele charme profissional no seu GitHub:
-
----
-
 # Insilico Tecnologia 🚀
 
 ![GitHub](https://img.shields.io/badge/GitHub-%40r0bertgabriel-black?style=flat\&logo=github)
